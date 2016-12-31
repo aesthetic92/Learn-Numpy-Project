@@ -1,6 +1,6 @@
 #About Repo
 
-This repository mainly writes some useful projects in Numpy. The repository is only for learn to study, without any commercial use. 
+This repository mainly writes some useful projects in `Numpy`. The repository is only for learn to study, without any commercial use. 
 
 I also refer to some other people's codes, thanks to the people who wrote these techniques!
 
